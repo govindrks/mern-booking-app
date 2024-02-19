@@ -1,4 +1,4 @@
-// file name is users because it is REST conventions
+// File name is users because it is REST conventions
 import express, { Request, Response} from 'express'
 import User from '../models/user';
 import jwt from 'jsonwebtoken'
